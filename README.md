@@ -10,7 +10,7 @@ Simply,run the command "python main.py -i 'dataPath'" in your console. The 'data
 
 ## Sample Results
 input image|our result
-___----|-----
+----|-----
 ![4ori](https://github.com/DavidQiuChao/NPLIE/blob/main/figs/4.bmp)|![4](https://github.com/DavidQiuChao/NPLIE/blob/main/figs/4.jpg)
 ![6ori](https://github.com/DavidQiuChao/NPLIE/blob/main/figs/6.bmp)|![6](https://github.com/DavidQiuChao/NPLIE/blob/main/figs/6.jpg)
 ![7ori](https://github.com/DavidQiuChao/NPLIE/blob/main/figs/7.bmp)|![7](https://github.com/DavidQiuChao/NPLIE/blob/main/figs/7.jpg)
