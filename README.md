@@ -2,7 +2,7 @@
 This code implements the paper, "Illumination Estimation for Nature Preserving Low Light Image Enhancement". This implementation may differ from the description in the paper, because the description is ambiguously. If you find this code is helpfully and have futher advice, please feel free to contact me.
 
 ## Difference
-For computing the weight matrix *****"G"**, the first-order derivative in horizonal and vertical direction are combined together,then logarithmic is implemented on it instead of in both direction separately.
+For computing the weight matrix **"G"**, the first-order derivative in horizonal and vertical direction are combined together,then logarithmic is implemented on it instead of in both direction separately.
 
 ## Usage
 Simply,run the command "python main.py -i 'dataPath'" in your console. The 'dataPath' specifies the testing image directory.
